@@ -1,2 +1,2 @@
-# primeiro-reposit-rio
+# repositório de atividades desenvolvidas no Scratch
 Atividades práticas
